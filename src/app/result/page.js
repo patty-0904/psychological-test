@@ -1,4 +1,6 @@
+// src/app/result/page.js
 'use client'
+
 import { useSearchParams } from 'next/navigation'
 import ResultCard from '../components/ResultCard'
 
